@@ -1,6 +1,6 @@
 # Pesto Tortellini Pasta Salad
 
-![image](https://bakerbynature.com/wp-content/uploads/2019/06/Easy-Pesto-Tortellini-Pasta-Salad-7-1-of-1.jpg | width=100)
+![image](https://bakerbynature.com/wp-content/uploads/2019/06/Easy-Pesto-Tortellini-Pasta-Salad-7-1-of-1.jpg)
 
 ## Ingredients
 
