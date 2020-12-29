@@ -15,7 +15,6 @@ jobs:
       with:
         env: production
     - name: Updating docs
-      uses: matheusalbino/git-commit@v1.0.1
+      uses: actions-x/commit@v2
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
         message: Updating docs       
