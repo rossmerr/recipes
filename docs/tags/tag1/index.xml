@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag1 on Recipes</title>
+    <link>http://127.0.0.1:5500/docs/tags/tag1/</link>
+    <description>Recent content in tag1 on Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Dec 2020 16:25:45 +0000</lastBuildDate><atom:link href="http://127.0.0.1:5500/docs/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cottage Pie With Cauliflower Cheese Topping</title>
+      <link>http://127.0.0.1:5500/docs/recipes/cottage-pie-with-cauliflower-cheese-topping/</link>
+      <pubDate>Tue, 29 Dec 2020 16:25:45 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/docs/recipes/cottage-pie-with-cauliflower-cheese-topping/</guid>
+      <description>Our cottage pie with cauliflower cheese topping is the perfect warming dinner. Tip: try using creamy cannellini beans or even haricot beans as an alternative to make the mash.</description>
+    </item>
+    
+    <item>
+      <title>Spanish White Bean Stew With Chorizo</title>
+      <link>http://127.0.0.1:5500/docs/recipes/spanish-white-bean-stew-with-chorizo/</link>
+      <pubDate>Tue, 29 Dec 2020 16:10:12 +0000</pubDate>
+      
+      <guid>http://127.0.0.1:5500/docs/recipes/spanish-white-bean-stew-with-chorizo/</guid>
+      <description>This Spanish white bean stew is a great way to eat your beans! The chorizo makes it extra warm and cozy, perfect for a weeknight dinner.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,6 @@
 ---
 layout: recipe
 date: 2020-12-29T16:16:33Z
-draft: true    
 title:  "Spinach Eggplant Lasagna" # The title of your awesome recipe
 image: awesome-recipe-image.jpg # Name of image in recipe bundle
 imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
