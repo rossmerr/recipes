@@ -1,6 +1,8 @@
 #baseURL: http://127.0.0.1:5500/docs 
-baseURL: https://rossmerr.github.io
+baseURL: https://rossmerr.github.io/recipes/
 languageCode: en-us
 title: Recipes
 theme: gochowdown
 publishDir: docs
+relativeURLs: true
+canonifyURLs: true

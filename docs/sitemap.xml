@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rossmerr.github.io/recipes/cottage-pie-with-cauliflower-cheese-topping/</loc>
+    <loc>https://rossmerr.github.io/recipes/recipes/cottage-pie-with-cauliflower-cheese-topping/</loc>
+    <lastmod>2020-12-29T16:25:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rossmerr.github.io/recipes/recipes/</loc>
     <lastmod>2020-12-29T16:25:45+00:00</lastmod>
   </url>
   
@@ -13,62 +18,57 @@
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/</loc>
+    <loc>https://rossmerr.github.io/recipes/tags/tag1/</loc>
     <lastmod>2020-12-29T16:25:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/tags/tag1/</loc>
+    <loc>https://rossmerr.github.io/recipes/tags/tag2/</loc>
     <lastmod>2020-12-29T16:25:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/tags/tag2/</loc>
+    <loc>https://rossmerr.github.io/recipes/tags/tag3/</loc>
     <lastmod>2020-12-29T16:25:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/tags/tag3/</loc>
+    <loc>https://rossmerr.github.io/recipes/tags/</loc>
     <lastmod>2020-12-29T16:25:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/tags/</loc>
-    <lastmod>2020-12-29T16:25:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://rossmerr.github.io/recipes/roasted-cauliflower-lentil-curry/</loc>
+    <loc>https://rossmerr.github.io/recipes/recipes/roasted-cauliflower-lentil-curry/</loc>
     <lastmod>2020-12-29T16:21:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/tags/vegetarian/</loc>
+    <loc>https://rossmerr.github.io/recipes/tags/vegetarian/</loc>
     <lastmod>2020-12-29T16:21:02+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/recipes/spinach-eggplant-lasagna/</loc>
+    <loc>https://rossmerr.github.io/recipes/recipes/spinach-eggplant-lasagna/</loc>
     <lastmod>2020-12-29T16:16:33+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/recipes/spanish-white-bean-stew-with-chorizo/</loc>
+    <loc>https://rossmerr.github.io/recipes/recipes/spanish-white-bean-stew-with-chorizo/</loc>
     <lastmod>2020-12-29T16:10:12+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/tags/mediterranean/</loc>
+    <loc>https://rossmerr.github.io/recipes/tags/mediterranean/</loc>
     <lastmod>2020-12-29T15:59:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/recipes/pesto-tortellini-pasta-salad/</loc>
+    <loc>https://rossmerr.github.io/recipes/recipes/pesto-tortellini-pasta-salad/</loc>
     <lastmod>2020-12-29T15:59:28+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rossmerr.github.io/categories/</loc>
+    <loc>https://rossmerr.github.io/recipes/categories/</loc>
   </url>
   
 </urlset>
