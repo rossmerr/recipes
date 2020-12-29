@@ -1,0 +1,22 @@
+name: Hugo site CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Hugo Build
+      uses: klakegg/actions-hugo@1.0.0
+      with:
+        env: production
+    - name: Updating docs
+      uses: matheusalbino/git-commit@v1.0.1
+      with:
+        github-token: ${{ secrets.GITHUB_TOKEN }}
+        message: Updating docs       
