@@ -1,7 +1,6 @@
 ---
 layout: recipe
 date: 2020-12-29T18:12:04Z
-draft: true    
 title:  "German Hazelnut Macaroons Christmas Cookie" # The title of your awesome recipe
 image: awesome-recipe-image.jpg # Name of image in recipe bundle
 imagecredit: https://placekitten.com/600/800 # URL to image source page, website, or creator
