@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  hugo:
+    image: klakegg/hugo:0.79.1-ext-alpine
+    # command: server -e production
+    volumes:
+        - $PWD:/src   
+    ports:
+      - "1313:1313"
